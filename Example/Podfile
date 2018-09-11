@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WGXibPersonKit_Example' do
+  pod 'WGXibPersonKit', :path => '../'
+
+  target 'WGXibPersonKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
