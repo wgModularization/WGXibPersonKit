@@ -58,13 +58,13 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		741FAFCDFF62A938682B1097 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		812208F4A4C1C835F01BC4C5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		741FAFCDFF62A938682B1097 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		812208F4A4C1C835F01BC4C5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8F389020768D0869647E3246 /* Pods-WGXibPersonKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WGXibPersonKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WGXibPersonKit_Tests/Pods-WGXibPersonKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		AC571F400C9027B083BED507 /* Pods-WGXibPersonKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WGXibPersonKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WGXibPersonKit_Example/Pods-WGXibPersonKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BCCD60C49DD16A10F800623D /* Pods-WGXibPersonKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WGXibPersonKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-WGXibPersonKit_Example/Pods-WGXibPersonKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C6B1496271AF306DF35899AA /* WGXibPersonKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WGXibPersonKit.podspec; path = ../WGXibPersonKit.podspec; sourceTree = "<group>"; };
+		C6B1496271AF306DF35899AA /* WGXibPersonKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WGXibPersonKit.podspec; path = ../WGXibPersonKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F2F33EE4F13DE925855566F5 /* Pods-WGXibPersonKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WGXibPersonKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WGXibPersonKit_Tests/Pods-WGXibPersonKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		FFAAC443817F45BDE321B91B /* Pods_WGXibPersonKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WGXibPersonKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -299,15 +299,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-WGXibPersonKit_Example-checkManifestLockResult.txt",
 			);
@@ -321,15 +317,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-WGXibPersonKit_Tests-checkManifestLockResult.txt",
 			);
@@ -343,17 +335,19 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-WGXibPersonKit_Example/Pods-WGXibPersonKit_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework",
 				"${BUILT_PRODUCTS_DIR}/WGXibPersonKit/WGXibPersonKit.framework",
+				"${BUILT_PRODUCTS_DIR}/wgCommonKit/wgCommonKit.framework",
+				"${BUILT_PRODUCTS_DIR}/wgXibPersonCatogeryKit/wgXibPersonCatogeryKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CTMediator.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/WGXibPersonKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/wgCommonKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/wgXibPersonCatogeryKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -500,9 +494,11 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "WGXibPersonKit/WGXibPersonKit-Prefix.pch";
 				INFOPLIST_FILE = "WGXibPersonKit/WGXibPersonKit-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -515,9 +511,11 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "WGXibPersonKit/WGXibPersonKit-Prefix.pch";
 				INFOPLIST_FILE = "WGXibPersonKit/WGXibPersonKit-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

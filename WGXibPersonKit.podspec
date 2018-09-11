@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'WGXibPersonKit'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of WGXibPersonKit.'
+  s.summary          = 'xib组件'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,22 +21,24 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/wanggang1128/WGXibPersonKit'
+  s.homepage         = 'https://github.com/wgModularization/WGXibPersonKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wanggang1128' => '978159546@qq.com' }
-  s.source           = { :git => 'https://github.com/wanggang1128/WGXibPersonKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wgModularization/WGXibPersonKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'WGXibPersonKit/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'WGXibPersonKit' => ['WGXibPersonKit/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'WGXibPersonKit' => ['WGXibPersonKit/Assets/*']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'wgCommonKit'
+  s.dependency 'wgXibPersonCatogeryKit'
 end

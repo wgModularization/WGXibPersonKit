@@ -1,0 +1,35 @@
+{
+  "name": "WGXibPersonKit",
+  "version": "0.1.0",
+  "summary": "xib组件",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wgModularization/WGXibPersonKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanggang1128": "978159546@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wgModularization/WGXibPersonKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WGXibPersonKit/Classes/**/*",
+  "resource_bundles": {
+    "WGXibPersonKit": [
+      "WGXibPersonKit/Assets/*"
+    ]
+  },
+  "dependencies": {
+    "wgCommonKit": [
+
+    ],
+    "wgXibPersonCatogeryKit": [
+
+    ]
+  }
+}

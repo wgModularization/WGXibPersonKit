@@ -1,0 +1,6 @@
+framework module wgXibPersonCatogeryKit {
+  umbrella header "wgXibPersonCatogeryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
