@@ -7,6 +7,7 @@
 //
 
 #import "WGXibPersonViewController.h"
+#import <wgCommonKit/UIImage+wgBundle.h>
 
 @interface WGXibPersonViewController ()
 
@@ -19,7 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.imgView.image = [UIImage imageNamed:@"Group"];
+    self.imgView.image = [UIImage wg_imgWithName:@"Group" bundle:@"WGXibPersonKit" targetClass:[self class]];
 }
 
 
