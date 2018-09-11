@@ -10,44 +10,43 @@
 		02DB9008809E6960FA08291D21329E5F /* Pods-WGXibPersonKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 68BFD6BA34A035808EFB72F38D78091C /* Pods-WGXibPersonKit_Tests-dummy.m */; };
 		04B5539208EF8C28566859A0FE405795 /* wgXibPersonCatogeryKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A4C420E68435ED5EDFA1531F550444A /* wgXibPersonCatogeryKit.framework */; };
 		07D194C6D3D7AA502D7C30181ACC7FE8 /* WGXibPersonKit.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E13BB0EF3FA4485F522E60EA5389558C /* WGXibPersonKit.bundle */; };
-		1BEA1705C2B26F112E6FA9C8150A5AB6 /* WGXibPersonViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AF654D0BC6140C626CC49E2335B81FC /* WGXibPersonViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1BEA1705C2B26F112E6FA9C8150A5AB6 /* WGXibPersonViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 773FF889F9E84A1C124BAD4F7A86353E /* WGXibPersonViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		23C7AE6973B7D74A8F1866924A7A0297 /* wgCommonKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDF45033CAEF66595FB53BF733BE400E /* wgCommonKit.framework */; };
+		266C106AF162616485AE3DF188EA1968 /* WGXibPersonKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D7B3E016DBA8E4D13174C51B3150ADD /* WGXibPersonKit-dummy.m */; };
 		362C1F4963B630F2F3245C8F1E5A71DF /* CTMediator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EF222849CB994060B58770D3416BCA5 /* CTMediator.framework */; };
-		36B71FF0D59C27D10DABB6D3822651A4 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D63153EAF839AB5BCD2CACE76F9D83D /* ReplaceMe.m */; };
 		39B67919347E092DD0DCBBF1E7509FE1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B975E2070F8F9E03C63ED567B0C90F58 /* Foundation.framework */; };
 		498E309DFEEC912AAF41C77D4E90AC80 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B975E2070F8F9E03C63ED567B0C90F58 /* Foundation.framework */; };
 		4A094D654418A5140034087B45D83270 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFEB3DB78DF78C75FB5F69D88B1A646F /* UIKit.framework */; };
 		4AE22C05F6DC10E902927047C61EE8C1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B975E2070F8F9E03C63ED567B0C90F58 /* Foundation.framework */; };
 		4DEFF4AC4ECD1F49BC2FE76A5FB2EB33 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B975E2070F8F9E03C63ED567B0C90F58 /* Foundation.framework */; };
 		5061468F1D1F3D604F752BE4348D9247 /* Pods-WGXibPersonKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 041FE75E6F22E2A5EF6E73A6581A597A /* Pods-WGXibPersonKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		51A1D33173E8C6F59D3192DADCD6337C /* WGXibPersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20F5258BA2976D86FED9C58072ACE0C6 /* WGXibPersonViewController.m */; };
 		55BDB9D767E8F7F28155804246F4E317 /* wgCommonKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 29E120B80CAD570716080C1B17E62D79 /* wgCommonKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6A6BDEC1020F281AD6AFFEF23A12BFFE /* UIImage+wgBundle.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F5BFB1C3E91CF872C9FDC6F21EB8A22 /* UIImage+wgBundle.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6E029539BD773609181569CB1804F554 /* Group@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = A43E8BF11C7D5639341E4FAAE2C271EA /* Group@1x.png */; };
+		6E029539BD773609181569CB1804F554 /* Group@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = F6D6E18EA52E2E97DFD13F4AC8CAA612 /* Group@1x.png */; };
 		71CF705435B37786922AFC191B69373F /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 79EDFC74D32CB083CD5DED34CB84256A /* ReplaceMe.m */; };
 		74FF2F8B91032CE67B0450864B3D4FE1 /* UIImage+wgBundle.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D07A2DE49858DC9A3921144B4C1189 /* UIImage+wgBundle.m */; };
 		7E686C49143AD470AB5B8658F7BF36FC /* CTMediator-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5D44128E9976932714BEC2CD044B1447 /* CTMediator-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7F57330CAAA6AAAF16708FC9F199551B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B975E2070F8F9E03C63ED567B0C90F58 /* Foundation.framework */; };
-		8F73BC50E349B69386E0ADE88D4372A7 /* WGXibPersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6328CF6DFB65DF827AF76686276D83C /* WGXibPersonViewController.m */; };
-		A202DBEDB404B9D76776079164A940FE /* Group@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8070B612EA899A1F0AE9EDEA7D2793B8 /* Group@2x.png */; };
+		8ECE5310765E17DAFEADB9BAA3907072 /* Target_xibPersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CCB051E5BD0847D229343B97DB930D16 /* Target_xibPersonViewController.m */; };
+		A202DBEDB404B9D76776079164A940FE /* Group@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AC2530AE3AAF74F7390CDC9488F9FC4 /* Group@2x.png */; };
 		B35859CA11877108257B6452337CC8C5 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = AB37BA85CBB8CB13E1373EA973129FA9 /* ReplaceMe.m */; };
 		B48BC7CE5C1F5943AB9048585255E406 /* Pods-WGXibPersonKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B401D142F5B7367B3CC8F11CB0FFF8F2 /* Pods-WGXibPersonKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C02A240B63C1AC139095A5C3356CBE2B /* WGXibPersonViewController.xib in Sources */ = {isa = PBXBuildFile; fileRef = 44C08D298B7F7BF3538C2EA02A801461 /* WGXibPersonViewController.xib */; };
 		C22FC33AE71C3A63B3BBDE6AE26E6F83 /* CTMediator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EF222849CB994060B58770D3416BCA5 /* CTMediator.framework */; };
 		C3A0AA0D345C12B8C881327268990E2F /* CTMediator.m in Sources */ = {isa = PBXBuildFile; fileRef = 84EB5C84CEDBE33CCC698C94BE195DC2 /* CTMediator.m */; };
 		C687B057AA3380503C18B52339D28C3A /* CTMediator.h in Headers */ = {isa = PBXBuildFile; fileRef = A0A9647DDD9B248AE7B07FFCF4DCD8AD /* CTMediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8E211CE039E7887A8C063BA322CB3C5 /* Pods-WGXibPersonKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F712848971654D30D92A8D5F542AD9D2 /* Pods-WGXibPersonKit_Example-dummy.m */; };
-		C985D970B0E54766E7BDB7A2891328BF /* Group@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 464366624887169718E2A5EEFD4B1E45 /* Group@3x.png */; };
-		CC464F0FE9A93E755270DC1B24CB13B1 /* Target_xibPersonViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = B0440B091C556E2501D7D4394F231E4D /* Target_xibPersonViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C985D970B0E54766E7BDB7A2891328BF /* Group@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85EB4CAE71ED4159F6046C3216B02BDE /* Group@3x.png */; };
+		CC464F0FE9A93E755270DC1B24CB13B1 /* Target_xibPersonViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C59252AD4370A213AA04ACC62E95D81 /* Target_xibPersonViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CDD905CBADE661BC5AB2DF34C7594C49 /* wgCommonKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 483493FB69950221D5E355F7F84FF31E /* wgCommonKit-dummy.m */; };
-		D026A94F57BAD942A3833A8A82E3AEB2 /* WGXibPersonKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 66F426A7837374A16E7AC283792EAA02 /* WGXibPersonKit-dummy.m */; };
 		D7AFF897EC393AA43E7ED70FDA185AD8 /* CTMediator+TAXibPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 30E1E4574978D99B1450BB8542B84CF2 /* CTMediator+TAXibPerson.m */; };
 		E199429D978DF901171B1844E779E963 /* wgXibPersonCatogeryKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A6DAD291577BDAC062E5044AB04D71F /* wgXibPersonCatogeryKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E417559056815BD24DBF1C437CBB57E2 /* CTMediator-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A0B97C8B3A7982CBD1565288890DE1B3 /* CTMediator-dummy.m */; };
 		E47F7C323C2A655AC1193C5B87248362 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B975E2070F8F9E03C63ED567B0C90F58 /* Foundation.framework */; };
 		EBBEDFD03DC6A2FB9EE2CDDECA6DE3A8 /* wgXibPersonCatogeryKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CBF03C51947E17C5828482C56CE3F52 /* wgXibPersonCatogeryKit-dummy.m */; };
 		ED07A49DF65E7791DBCBA9D695090E12 /* CTMediator+TAXibPerson.h in Headers */ = {isa = PBXBuildFile; fileRef = CCC50AE92D074986F1C6344192E97863 /* CTMediator+TAXibPerson.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FC430CD57E8E2857ACBFF575645F0D22 /* Target_xibPersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8CED1D71480CB353EA73FC6D8B68FAA /* Target_xibPersonViewController.m */; };
-		FF7881B4D8BBF599F7CE4A1E5C879D98 /* WGXibPersonKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C6780A3BC7F1CF4DDE485964D092C863 /* WGXibPersonKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F550C4C9DD8C212CB180E97879240B2A /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2C571F05F93276F0799D5A66603B72 /* ReplaceMe.m */; };
+		FF7881B4D8BBF599F7CE4A1E5C879D98 /* WGXibPersonKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 773C44AA3CCC8531AE336225D88C582A /* WGXibPersonKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -124,82 +123,81 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		03D3DE9FE99D62203B2F3E1A4496E17E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		041FE75E6F22E2A5EF6E73A6581A597A /* Pods-WGXibPersonKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WGXibPersonKit_Tests-umbrella.h"; sourceTree = "<group>"; };
+		05B70764073AF8D13B060FD9A50DEC6B /* WGXibPersonKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WGXibPersonKit.modulemap; sourceTree = "<group>"; };
 		0A87C4BE6A2B8D62E5689D92EACD85AB /* Pods-WGXibPersonKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WGXibPersonKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		0B0989361E7EF45B9AF6D70C47B0DBDB /* Pods-WGXibPersonKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WGXibPersonKit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		0CBF03C51947E17C5828482C56CE3F52 /* wgXibPersonCatogeryKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "wgXibPersonCatogeryKit-dummy.m"; sourceTree = "<group>"; };
+		20F5258BA2976D86FED9C58072ACE0C6 /* WGXibPersonViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = WGXibPersonViewController.m; sourceTree = "<group>"; };
 		28ABE64B67534146F682AD6EB8FE4590 /* Pods-WGXibPersonKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WGXibPersonKit_Example.modulemap"; sourceTree = "<group>"; };
 		293C59A511A93CFE635F5B3837A6D61D /* Pods-WGXibPersonKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WGXibPersonKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		29E120B80CAD570716080C1B17E62D79 /* wgCommonKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "wgCommonKit-umbrella.h"; sourceTree = "<group>"; };
-		2DA50517B012E2DA8D963AD1BB7FEB76 /* WGXibPersonKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WGXibPersonKit.modulemap; sourceTree = "<group>"; };
+		2AC2530AE3AAF74F7390CDC9488F9FC4 /* Group@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "Group@2x.png"; path = "WGXibPersonKit/Assets/Group@2x.png"; sourceTree = "<group>"; };
 		30E1E4574978D99B1450BB8542B84CF2 /* CTMediator+TAXibPerson.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CTMediator+TAXibPerson.m"; path = "wgXibPersonCatogeryKit/Classes/wgXibPersonCategory/CTMediator+TAXibPerson.m"; sourceTree = "<group>"; };
-		3131193EAEE82774FB8759B09F8C0540 /* WGXibPersonKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WGXibPersonKit.xcconfig; sourceTree = "<group>"; };
 		33A6BEF87F9016B8E0D518416DBC8A18 /* Pods_WGXibPersonKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WGXibPersonKit_Tests.framework; path = "Pods-WGXibPersonKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		34D07A2DE49858DC9A3921144B4C1189 /* UIImage+wgBundle.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+wgBundle.m"; path = "wgCommonKit/Classes/wgCommon/UIImage+wgBundle.m"; sourceTree = "<group>"; };
 		3696DC1C083DFC5E95E2493312A3338C /* wgCommonKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = wgCommonKit.xcconfig; sourceTree = "<group>"; };
 		37825CDED011CF13C235B3084F4115C6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3874299B2AD97E32B70422DF4C19DB1F /* WGXibPersonKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WGXibPersonKit-prefix.pch"; sourceTree = "<group>"; };
 		3913CB4A6955C8A203E5F250C84AB87B /* WGXibPersonKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = WGXibPersonKit.framework; path = WGXibPersonKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A6DAD291577BDAC062E5044AB04D71F /* wgXibPersonCatogeryKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "wgXibPersonCatogeryKit-umbrella.h"; sourceTree = "<group>"; };
-		3EA84BEB55F3B32D6618462CC7F50AB8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41AEA3447715F69DC7535CF7AA5C3DBF /* CTMediator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CTMediator.modulemap; sourceTree = "<group>"; };
-		44C08D298B7F7BF3538C2EA02A801461 /* WGXibPersonViewController.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = WGXibPersonViewController.xib; sourceTree = "<group>"; };
 		45D839062D12152729A0C27BAA83675E /* wgCommonKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = wgCommonKit.modulemap; sourceTree = "<group>"; };
-		464366624887169718E2A5EEFD4B1E45 /* Group@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "Group@3x.png"; path = "WGXibPersonKit/Assets/Group@3x.png"; sourceTree = "<group>"; };
 		478E878694F7778BAAF1B4BA6EDAF568 /* wgCommonKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = wgCommonKit.framework; path = wgCommonKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		483493FB69950221D5E355F7F84FF31E /* wgCommonKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "wgCommonKit-dummy.m"; sourceTree = "<group>"; };
 		4A4C420E68435ED5EDFA1531F550444A /* wgXibPersonCatogeryKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = wgXibPersonCatogeryKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C61C6CB92ABA678263983D65A193A65 /* ResourceBundle-WGXibPersonKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-WGXibPersonKit-Info.plist"; sourceTree = "<group>"; };
 		4E1B4366F52A2E87E45C1076FC63322E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4EF222849CB994060B58770D3416BCA5 /* CTMediator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CTMediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		507476CE2A38F43141134FAA6A2349E1 /* Pods-WGXibPersonKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WGXibPersonKit_Tests.modulemap"; sourceTree = "<group>"; };
 		514FC2573627B0DF66FC5BC58E24AAD1 /* Pods-WGXibPersonKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WGXibPersonKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		5AF654D0BC6140C626CC49E2335B81FC /* WGXibPersonViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = WGXibPersonViewController.h; sourceTree = "<group>"; };
 		5BEBABDE84B8F4D735F5DD2D5464CC8E /* wgXibPersonCatogeryKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = wgXibPersonCatogeryKit.xcconfig; sourceTree = "<group>"; };
 		5D44128E9976932714BEC2CD044B1447 /* CTMediator-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CTMediator-umbrella.h"; sourceTree = "<group>"; };
-		6216AE1D1817D840DE37F16D1E1B13DE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		63AB81DC02EA28181CFDB1FF597046FB /* WGXibPersonKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = WGXibPersonKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6608F0461546335E84C9673E359E430E /* Pods-WGXibPersonKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WGXibPersonKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		66F426A7837374A16E7AC283792EAA02 /* WGXibPersonKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WGXibPersonKit-dummy.m"; sourceTree = "<group>"; };
 		68BFD6BA34A035808EFB72F38D78091C /* Pods-WGXibPersonKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WGXibPersonKit_Tests-dummy.m"; sourceTree = "<group>"; };
+		69DCBD7099D84FE8B4CB0438498D15A6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C1B13674C16403681F3BAAA6449FCDD /* wgXibPersonCatogeryKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = wgXibPersonCatogeryKit.modulemap; sourceTree = "<group>"; };
 		6E71CCDD3B48D7920A783F3C1927F0B0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F5BFB1C3E91CF872C9FDC6F21EB8A22 /* UIImage+wgBundle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+wgBundle.h"; path = "wgCommonKit/Classes/wgCommon/UIImage+wgBundle.h"; sourceTree = "<group>"; };
 		6FCA8AA3E84570FE9DEDA93B349F2243 /* Pods-WGXibPersonKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WGXibPersonKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		72A271A6ED84924C3FB6462E57F41A58 /* Pods-WGXibPersonKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WGXibPersonKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		74FAF91B3DEFA34331E6B5B27E788AEB /* wgXibPersonCatogeryKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = wgXibPersonCatogeryKit.framework; path = wgXibPersonCatogeryKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		773C44AA3CCC8531AE336225D88C582A /* WGXibPersonKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WGXibPersonKit-umbrella.h"; sourceTree = "<group>"; };
+		773FF889F9E84A1C124BAD4F7A86353E /* WGXibPersonViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = WGXibPersonViewController.h; sourceTree = "<group>"; };
 		77413D377DA3AE514FC5157D378E3AFD /* CTMediator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CTMediator.framework; path = CTMediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		79EDFC74D32CB083CD5DED34CB84256A /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = wgCommonKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
-		7C205D05A9837853B306E4835F736BF3 /* ResourceBundle-WGXibPersonKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-WGXibPersonKit-Info.plist"; sourceTree = "<group>"; };
-		8070B612EA899A1F0AE9EDEA7D2793B8 /* Group@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "Group@2x.png"; path = "WGXibPersonKit/Assets/Group@2x.png"; sourceTree = "<group>"; };
+		7C59252AD4370A213AA04ACC62E95D81 /* Target_xibPersonViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Target_xibPersonViewController.h; sourceTree = "<group>"; };
+		7D7B3E016DBA8E4D13174C51B3150ADD /* WGXibPersonKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WGXibPersonKit-dummy.m"; sourceTree = "<group>"; };
 		84EB5C84CEDBE33CCC698C94BE195DC2 /* CTMediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CTMediator.m; path = CTMediator/CTMediator/CTMediator.m; sourceTree = "<group>"; };
+		85EB4CAE71ED4159F6046C3216B02BDE /* Group@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "Group@3x.png"; path = "WGXibPersonKit/Assets/Group@3x.png"; sourceTree = "<group>"; };
 		86BFF5F99239D735FF8A067DDF19EAFE /* Pods-WGXibPersonKit_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WGXibPersonKit_Tests-resources.sh"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9D63153EAF839AB5BCD2CACE76F9D83D /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = WGXibPersonKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		9C2C571F05F93276F0799D5A66603B72 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = WGXibPersonKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		A0A9647DDD9B248AE7B07FFCF4DCD8AD /* CTMediator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CTMediator.h; path = CTMediator/CTMediator/CTMediator.h; sourceTree = "<group>"; };
 		A0B97C8B3A7982CBD1565288890DE1B3 /* CTMediator-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CTMediator-dummy.m"; sourceTree = "<group>"; };
-		A1791CC0B399158E374B249743E008C4 /* WGXibPersonKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WGXibPersonKit-prefix.pch"; sourceTree = "<group>"; };
 		A27FC98D4A710F101F9C1B70BBD0E0E3 /* wgXibPersonCatogeryKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "wgXibPersonCatogeryKit-prefix.pch"; sourceTree = "<group>"; };
-		A43E8BF11C7D5639341E4FAAE2C271EA /* Group@1x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "Group@1x.png"; path = "WGXibPersonKit/Assets/Group@1x.png"; sourceTree = "<group>"; };
-		A4C703FC1149D48CF33E023089990A7E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		A871FECE6FBED07DF15DFB87A0250D46 /* WGXibPersonKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WGXibPersonKit.xcconfig; sourceTree = "<group>"; };
 		AB37BA85CBB8CB13E1373EA973129FA9 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = wgXibPersonCatogeryKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		AE6B819B85313123755613938CDE6F5E /* Pods_WGXibPersonKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WGXibPersonKit_Example.framework; path = "Pods-WGXibPersonKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B0440B091C556E2501D7D4394F231E4D /* Target_xibPersonViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Target_xibPersonViewController.h; sourceTree = "<group>"; };
 		B25941C21807884A6745689A642151D6 /* Pods-WGXibPersonKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WGXibPersonKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B401D142F5B7367B3CC8F11CB0FFF8F2 /* Pods-WGXibPersonKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WGXibPersonKit_Example-umbrella.h"; sourceTree = "<group>"; };
-		B6328CF6DFB65DF827AF76686276D83C /* WGXibPersonViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = WGXibPersonViewController.m; sourceTree = "<group>"; };
-		B8CED1D71480CB353EA73FC6D8B68FAA /* Target_xibPersonViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Target_xibPersonViewController.m; sourceTree = "<group>"; };
 		B975E2070F8F9E03C63ED567B0C90F58 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		BEBEB2CF0913B154ED297110FECE73DA /* Pods-WGXibPersonKit_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WGXibPersonKit_Example-resources.sh"; sourceTree = "<group>"; };
 		C524AAEA55D4466DA80B9DB05D6A9A2D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C6780A3BC7F1CF4DDE485964D092C863 /* WGXibPersonKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WGXibPersonKit-umbrella.h"; sourceTree = "<group>"; };
+		CBE01141E707323D12FDE4BA5DAFB16C /* WGXibPersonKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = WGXibPersonKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		CCB051E5BD0847D229343B97DB930D16 /* Target_xibPersonViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Target_xibPersonViewController.m; sourceTree = "<group>"; };
 		CCC50AE92D074986F1C6344192E97863 /* CTMediator+TAXibPerson.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CTMediator+TAXibPerson.h"; path = "wgXibPersonCatogeryKit/Classes/wgXibPersonCategory/CTMediator+TAXibPerson.h"; sourceTree = "<group>"; };
 		CEC5AA4D27ED96134DCE336916030268 /* Pods-WGXibPersonKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WGXibPersonKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D7E4A72053EB34ACF3352B05CDEE697E /* wgCommonKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "wgCommonKit-prefix.pch"; sourceTree = "<group>"; };
+		DEAEE9A5CA4114E5590A73933F98AE7A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		DFEB3DB78DF78C75FB5F69D88B1A646F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		E0584683755BE4E05ACC92162FE1183B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E13BB0EF3FA4485F522E60EA5389558C /* WGXibPersonKit.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = WGXibPersonKit.bundle; path = "WGXibPersonKit-WGXibPersonKit.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E174D32E8DAA73575B8EA4B458976F24 /* CTMediator.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CTMediator.xcconfig; sourceTree = "<group>"; };
 		E1E162233EB9390DC07D8DE0FE914E7A /* CTMediator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CTMediator-prefix.pch"; sourceTree = "<group>"; };
 		EDA39B70C6E63FF16EA5531841324ED8 /* Pods-WGXibPersonKit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WGXibPersonKit_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		F6D6E18EA52E2E97DFD13F4AC8CAA612 /* Group@1x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "Group@1x.png"; path = "WGXibPersonKit/Assets/Group@1x.png"; sourceTree = "<group>"; };
 		F712848971654D30D92A8D5F542AD9D2 /* Pods-WGXibPersonKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WGXibPersonKit_Example-dummy.m"; sourceTree = "<group>"; };
 		FDF45033CAEF66595FB53BF733BE400E /* wgCommonKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = wgCommonKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -289,26 +287,28 @@
 			path = wgXibPersonCatogeryKit;
 			sourceTree = "<group>";
 		};
-		300BDC7383DA37ADD2525A42BE3284C8 /* Resources */ = {
+		285412817AF7D80D2161B705B25848FC /* TAXibPerxon */ = {
 			isa = PBXGroup;
 			children = (
-				A43E8BF11C7D5639341E4FAAE2C271EA /* Group@1x.png */,
-				8070B612EA899A1F0AE9EDEA7D2793B8 /* Group@2x.png */,
-				464366624887169718E2A5EEFD4B1E45 /* Group@3x.png */,
+				7C59252AD4370A213AA04ACC62E95D81 /* Target_xibPersonViewController.h */,
+				CCB051E5BD0847D229343B97DB930D16 /* Target_xibPersonViewController.m */,
+				773FF889F9E84A1C124BAD4F7A86353E /* WGXibPersonViewController.h */,
+				20F5258BA2976D86FED9C58072ACE0C6 /* WGXibPersonViewController.m */,
 			);
-			name = Resources;
+			name = TAXibPerxon;
+			path = WGXibPersonKit/Classes/TAXibPerxon;
 			sourceTree = "<group>";
 		};
-		38189A8BB59E3EE048873AB1539997E2 /* Support Files */ = {
+		2B30505113AAC634AB4F6F534DF0BED2 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				3EA84BEB55F3B32D6618462CC7F50AB8 /* Info.plist */,
-				7C205D05A9837853B306E4835F736BF3 /* ResourceBundle-WGXibPersonKit-Info.plist */,
-				2DA50517B012E2DA8D963AD1BB7FEB76 /* WGXibPersonKit.modulemap */,
-				3131193EAEE82774FB8759B09F8C0540 /* WGXibPersonKit.xcconfig */,
-				66F426A7837374A16E7AC283792EAA02 /* WGXibPersonKit-dummy.m */,
-				A1791CC0B399158E374B249743E008C4 /* WGXibPersonKit-prefix.pch */,
-				C6780A3BC7F1CF4DDE485964D092C863 /* WGXibPersonKit-umbrella.h */,
+				69DCBD7099D84FE8B4CB0438498D15A6 /* Info.plist */,
+				4C61C6CB92ABA678263983D65A193A65 /* ResourceBundle-WGXibPersonKit-Info.plist */,
+				05B70764073AF8D13B060FD9A50DEC6B /* WGXibPersonKit.modulemap */,
+				A871FECE6FBED07DF15DFB87A0250D46 /* WGXibPersonKit.xcconfig */,
+				7D7B3E016DBA8E4D13174C51B3150ADD /* WGXibPersonKit-dummy.m */,
+				3874299B2AD97E32B70422DF4C19DB1F /* WGXibPersonKit-prefix.pch */,
+				773C44AA3CCC8531AE336225D88C582A /* WGXibPersonKit-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/WGXibPersonKit";
@@ -326,30 +326,14 @@
 			path = wgCommonKit;
 			sourceTree = "<group>";
 		};
-		44DF8B323A77C2D27AFD1ACA4B97C29C /* TAXibPerxon */ = {
+		7308D8B4D11D7EB82969AA13534C2505 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				B0440B091C556E2501D7D4394F231E4D /* Target_xibPersonViewController.h */,
-				B8CED1D71480CB353EA73FC6D8B68FAA /* Target_xibPersonViewController.m */,
-				5AF654D0BC6140C626CC49E2335B81FC /* WGXibPersonViewController.h */,
-				B6328CF6DFB65DF827AF76686276D83C /* WGXibPersonViewController.m */,
-				44C08D298B7F7BF3538C2EA02A801461 /* WGXibPersonViewController.xib */,
+				03D3DE9FE99D62203B2F3E1A4496E17E /* LICENSE */,
+				DEAEE9A5CA4114E5590A73933F98AE7A /* README.md */,
+				CBE01141E707323D12FDE4BA5DAFB16C /* WGXibPersonKit.podspec */,
 			);
-			name = TAXibPerxon;
-			path = WGXibPersonKit/Classes/TAXibPerxon;
-			sourceTree = "<group>";
-		};
-		6B8EF76C2B1008B01F845DE6A5766C9D /* WGXibPersonKit */ = {
-			isa = PBXGroup;
-			children = (
-				9D63153EAF839AB5BCD2CACE76F9D83D /* ReplaceMe.m */,
-				9B632793E08E1584010E7F95D41F09B1 /* Pod */,
-				300BDC7383DA37ADD2525A42BE3284C8 /* Resources */,
-				38189A8BB59E3EE048873AB1539997E2 /* Support Files */,
-				44DF8B323A77C2D27AFD1ACA4B97C29C /* TAXibPerxon */,
-			);
-			name = WGXibPersonKit;
-			path = ../..;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		7A3AB11A1501A8440522CCD655C29A6E /* Targets Support Files */ = {
@@ -381,16 +365,6 @@
 				1AD14B90A153D991C54A54F5F9D6BB80 /* wgXibPersonCatogeryKit */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		9B632793E08E1584010E7F95D41F09B1 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				6216AE1D1817D840DE37F16D1E1B13DE /* LICENSE */,
-				A4C703FC1149D48CF33E023089990A7E /* README.md */,
-				63AB81DC02EA28181CFDB1FF597046FB /* WGXibPersonKit.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		A84387BDE409499B1AD137AE63203041 /* Frameworks */ = {
@@ -430,6 +404,16 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/wgCommonKit";
+			sourceTree = "<group>";
+		};
+		B2440CB524A88F0DA883836369423DC7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F6D6E18EA52E2E97DFD13F4AC8CAA612 /* Group@1x.png */,
+				2AC2530AE3AAF74F7390CDC9488F9FC4 /* Group@2x.png */,
+				85EB4CAE71ED4159F6046C3216B02BDE /* Group@3x.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BA37CD8D4FFE6B0507B500197BCB5000 /* Pods-WGXibPersonKit_Tests */ = {
@@ -510,9 +494,22 @@
 		F9594576674CBD1EF0D3129449B1382C /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				6B8EF76C2B1008B01F845DE6A5766C9D /* WGXibPersonKit */,
+				FBDE2BD958FBC54E363C009084CECE3B /* WGXibPersonKit */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		FBDE2BD958FBC54E363C009084CECE3B /* WGXibPersonKit */ = {
+			isa = PBXGroup;
+			children = (
+				9C2C571F05F93276F0799D5A66603B72 /* ReplaceMe.m */,
+				7308D8B4D11D7EB82969AA13534C2505 /* Pod */,
+				B2440CB524A88F0DA883836369423DC7 /* Resources */,
+				2B30505113AAC634AB4F6F534DF0BED2 /* Support Files */,
+				285412817AF7D80D2161B705B25848FC /* TAXibPerxon */,
+			);
+			name = WGXibPersonKit;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -616,7 +613,7 @@
 			buildConfigurationList = B5AB1870C49B1BAE115332B49745D977 /* Build configuration list for PBXNativeTarget "WGXibPersonKit" */;
 			buildPhases = (
 				54711B64F73D885F878A4D378BFD4F5D /* Headers */,
-				2D4BD07E7FDC10B95561F3F05B114224 /* Sources */,
+				C69661FE0A5EBB8BBAB40CB0DF029351 /* Sources */,
 				6D76C547CE4A26452B6F0A8765909547 /* Frameworks */,
 				EDA26CEE227B15AE83774D319803DF85 /* Resources */,
 			);
@@ -805,18 +802,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2D4BD07E7FDC10B95561F3F05B114224 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				36B71FF0D59C27D10DABB6D3822651A4 /* ReplaceMe.m in Sources */,
-				FC430CD57E8E2857ACBFF575645F0D22 /* Target_xibPersonViewController.m in Sources */,
-				D026A94F57BAD942A3833A8A82E3AEB2 /* WGXibPersonKit-dummy.m in Sources */,
-				8F73BC50E349B69386E0ADE88D4372A7 /* WGXibPersonViewController.m in Sources */,
-				C02A240B63C1AC139095A5C3356CBE2B /* WGXibPersonViewController.xib in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		34DB3E507BF50744C66CAC42CDEF448C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -841,6 +826,17 @@
 			files = (
 				E417559056815BD24DBF1C437CBB57E2 /* CTMediator-dummy.m in Sources */,
 				C3A0AA0D345C12B8C881327268990E2F /* CTMediator.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C69661FE0A5EBB8BBAB40CB0DF029351 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F550C4C9DD8C212CB180E97879240B2A /* ReplaceMe.m in Sources */,
+				8ECE5310765E17DAFEADB9BAA3907072 /* Target_xibPersonViewController.m in Sources */,
+				266C106AF162616485AE3DF188EA1968 /* WGXibPersonKit-dummy.m in Sources */,
+				51A1D33173E8C6F59D3192DADCD6337C /* WGXibPersonViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -961,7 +957,7 @@
 		};
 		417742EDF2B9FCEFF6646F67E794FFC3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3131193EAEE82774FB8759B09F8C0540 /* WGXibPersonKit.xcconfig */;
+			baseConfigurationReference = A871FECE6FBED07DF15DFB87A0250D46 /* WGXibPersonKit.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1121,7 +1117,7 @@
 		};
 		63B20D39A0D7DB7DB56C4564B3B38529 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3131193EAEE82774FB8759B09F8C0540 /* WGXibPersonKit.xcconfig */;
+			baseConfigurationReference = A871FECE6FBED07DF15DFB87A0250D46 /* WGXibPersonKit.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/WGXibPersonKit";
@@ -1171,7 +1167,7 @@
 		};
 		90578B8585FCA2522B65A965A0250EF4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3131193EAEE82774FB8759B09F8C0540 /* WGXibPersonKit.xcconfig */;
+			baseConfigurationReference = A871FECE6FBED07DF15DFB87A0250D46 /* WGXibPersonKit.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1201,7 +1197,7 @@
 		};
 		A794B80CC2E555687DB7EE5E498B3AF3 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3131193EAEE82774FB8759B09F8C0540 /* WGXibPersonKit.xcconfig */;
+			baseConfigurationReference = A871FECE6FBED07DF15DFB87A0250D46 /* WGXibPersonKit.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/WGXibPersonKit";

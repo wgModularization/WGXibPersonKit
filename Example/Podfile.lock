@@ -3,7 +3,7 @@ PODS:
   - wgCommonKit (1)
   - wgXibPersonCatogeryKit (0.1.0):
     - CTMediator
-  - WGXibPersonKit (0.1.0):
+  - WGXibPersonKit (0.1.1):
     - wgCommonKit
     - wgXibPersonCatogeryKit
 
@@ -25,7 +25,7 @@ SPEC CHECKSUMS:
   CTMediator: 420e9d90f9f1fd740caf2238ed7ed64dc621c5b7
   wgCommonKit: 05298657b11ba2ef731133b9b6c6d27841745545
   wgXibPersonCatogeryKit: 540bba40d1018fc551415219fa53c4ac917ec073
-  WGXibPersonKit: 31c0fa624f2ed9c40ceff0ee0a32d99676d59811
+  WGXibPersonKit: 8c6077661fda1bd89f188b54b0f99ebca3a1e8ae
 
 PODFILE CHECKSUM: 7aac1f5faafb992f67a7fe340ed624afbfa74b8f
 
