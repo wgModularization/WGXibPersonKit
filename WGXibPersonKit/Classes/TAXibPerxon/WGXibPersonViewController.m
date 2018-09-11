@@ -7,11 +7,10 @@
 //
 
 #import "WGXibPersonViewController.h"
-#import <wgCommonKit/UIImage+wgBundle.h>
-
 
 @interface WGXibPersonViewController ()
 
+@property (weak, nonatomic) IBOutlet UIImageView *imgView;
 
 @end
 
@@ -20,11 +19,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.title = self.imgName;
-//    self.imgView.image = [UIImage wg_imgWithName:@"Group" bundle:@"WGXibPersonKit" targetClass:[self class]];
-    
-    
+    self.imgView.image = [UIImage imageNamed:@"Group"];
 }
+
 
 
 @end

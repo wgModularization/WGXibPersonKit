@@ -10,6 +10,6 @@
 
 @interface WGXibPersonViewController : UIViewController
 
-@property (nonatomic, copy) NSString *imgName;
+@property (nonatomic, strong) NSString *imgName;
 
 @end
